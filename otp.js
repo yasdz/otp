@@ -1,4 +1,6 @@
- $(document).ready(function () {
+(function () {
+    'use strict';
+$(document).ready(function () {
         for (let _0x4b0daa = 1; _0x4b0daa <= 11; _0x4b0daa++) {
             const _0x1d7376 = $('#AppointmentDate' + _0x4b0daa),
                 _0x182c1d = $('#AppointmentSlot' + _0x4b0daa);
