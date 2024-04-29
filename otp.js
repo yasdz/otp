@@ -1,1 +1,123 @@
-function _0x1e59(){const _0x1029b7=['backgroundColor','clipboard','input[name^=\x22AppointmentSlot\x22]','click','closest','54JmHoCQ','getElementById','#AppointmentSlot','2024-04-16','readText','length','textContent','19045660AraRmA','ready','Pasted\x20text\x20into\x20the\x20input:','then','Failed\x20to\x20read\x20from\x20clipboard','8545832fKHktJ','rgb(12,\x20188,\x20135)','data','error','3065252SYhMQd','value','Text\x20is\x20on\x20the\x20clipboard.','EmailVerificationCode','[id^=\x22AppointmentDate\x22]','.k-widget.k-dropdown','writeText','log','btnSenderificationCode','slot-item\x20bg-success','28966opcxZG','3UlOTld','btnSubmit','querySelectorAll','getElementsByClassName','#AppointmentDate','body','756676TRwFlw','1016810YSJSni','08:00-09:00','val','change','forEach','9pDMKtX','لم\x20يتم\x20العثور\x20على\x20العنصر\x20الأساسي.','971430UNEraS'];_0x1e59=function(){return _0x1029b7;};return _0x1e59();}function _0xdfbf(_0x38b711,_0x38aa9d){const _0x1e5924=_0x1e59();return _0xdfbf=function(_0xdfbfa4,_0x51c82c){_0xdfbfa4=_0xdfbfa4-0x121;let _0x5ec303=_0x1e5924[_0xdfbfa4];return _0x5ec303;},_0xdfbf(_0x38b711,_0x38aa9d);}(function(_0x11f83e,_0x114662){const _0x55bd2b=_0xdfbf,_0x1674fb=_0x11f83e();while(!![]){try{const _0x5eff7d=parseInt(_0x55bd2b(0x144))/0x1+parseInt(_0x55bd2b(0x145))/0x2*(-parseInt(_0x55bd2b(0x13e))/0x3)+-parseInt(_0x55bd2b(0x133))/0x4+parseInt(_0x55bd2b(0x14c))/0x5+-parseInt(_0x55bd2b(0x123))/0x6*(-parseInt(_0x55bd2b(0x13d))/0x7)+-parseInt(_0x55bd2b(0x12f))/0x8+-parseInt(_0x55bd2b(0x14a))/0x9*(-parseInt(_0x55bd2b(0x12a))/0xa);if(_0x5eff7d===_0x114662)break;else _0x1674fb['push'](_0x1674fb['shift']());}catch(_0x552cca){_0x1674fb['push'](_0x1674fb['shift']());}}}(_0x1e59,0x863bf),(function(){'use strict';const _0x125ef9=_0xdfbf;function _0x4054d2(_0x276034){const _0x494ae1=_0xdfbf;navigator[_0x494ae1(0x14e)][_0x494ae1(0x139)](_0x276034)[_0x494ae1(0x12d)](function(){const _0x3ed071=_0x494ae1;console[_0x3ed071(0x13a)](_0x3ed071(0x135));})['catch'](function(_0x4d8e37){const _0x4d46e9=_0x494ae1;console[_0x4d46e9(0x132)]('Could\x20not\x20copy\x20text:\x20',_0x4d8e37);});}function _0x2a2fe6(){const _0x463968=_0xdfbf,_0xfa0bcc=/Your verification code is as mentioned below\s+(\d+)/,_0x138ffb=_0xfa0bcc['exec'](document[_0x463968(0x143)][_0x463968(0x129)]);_0x138ffb&&_0x138ffb[0x1]&&(console[_0x463968(0x13a)]('Verification\x20code\x20found:',_0x138ffb[0x1]),_0x4054d2(_0x138ffb[0x1]));}async function _0x1fa1ec(){const _0x1c8091=_0xdfbf;try{const _0x2e2a36=await navigator[_0x1c8091(0x14e)][_0x1c8091(0x127)](),_0x5a3a6f=document[_0x1c8091(0x124)](_0x1c8091(0x136));_0x5a3a6f&&_0x2e2a36&&(_0x5a3a6f[_0x1c8091(0x134)]=_0x2e2a36,console['log'](_0x1c8091(0x12c),_0x2e2a36));}catch(_0x22aed3){console[_0x1c8091(0x132)](_0x1c8091(0x12e),_0x22aed3);}}_0x2a2fe6(),setInterval(_0x2a2fe6,0x190),setInterval(_0x1fa1ec,0x190);function _0x44847b(){const _0x301f68=_0xdfbf;var _0x316574=document[_0x301f68(0x140)](_0x301f68(0x137));_0x316574[_0x301f68(0x149)](function(_0x2f9765){const _0x1fc52f=_0x301f68;var _0x13cad=$(_0x2f9765)[_0x1fc52f(0x131)]('kendoDatePicker');_0x13cad?_0x13cad['bind'](_0x1fc52f(0x148),function(){setTimeout(_0x1dcfa1,0x190),setTimeout(_0x26d97a,0x190);}):console[_0x1fc52f(0x13a)]('لم\x20يتم\x20العثور\x20على\x20Kendo\x20DatePicker\x20للعنصر:\x20',_0x2f9765);});}setTimeout(_0x44847b,0x190);function _0x1dcfa1(){const _0x3b252f=_0xdfbf;var _0x1f2068=document[_0x3b252f(0x140)](_0x3b252f(0x14f));_0x1f2068[_0x3b252f(0x149)](function(_0x350404){const _0x8a85f8=_0x3b252f;var _0x5d7fcd=_0x350404[_0x8a85f8(0x122)](_0x8a85f8(0x138));_0x5d7fcd?_0x5d7fcd[_0x8a85f8(0x121)]():console[_0x8a85f8(0x13a)](_0x8a85f8(0x14b));});}const _0x245a2b=_0x125ef9(0x13c),_0x4883e9=_0x125ef9(0x130),_0x26d97a=()=>{const _0x44a8b9=_0x125ef9,_0x19ce74=document[_0x44a8b9(0x141)](_0x245a2b);for(let _0x54853f=0x0;_0x54853f<_0x19ce74['length'];_0x54853f++){const _0x2e5933=_0x19ce74[_0x54853f];if(getComputedStyle(_0x2e5933)[_0x44a8b9(0x14d)]===_0x4883e9){_0x2e5933[_0x44a8b9(0x121)](),_0x3e4278();return;}}},_0x3e4278=()=>{const _0x4765af=_0x125ef9;var _0x82fb1=document[_0x4765af(0x124)](_0x4765af(0x13f));_0x82fb1[_0x4765af(0x121)](),setTimeout(function(){clearInterval(_0x97492);},0x12c);},_0x97492=setInterval(_0x26d97a,0x12c);(function(){'use strict';setTimeout(function(){const _0x4239a0=_0xdfbf;var _0x34a0d3=document[_0x4239a0(0x124)](_0x4239a0(0x13b));_0x34a0d3&&_0x34a0d3[_0x4239a0(0x121)]();},0x12c);}()),$(document)[_0x125ef9(0x12b)](function(){'use strict';const _0xd2a27d=_0x125ef9;const _0x2b4727=0xa,_0x3b7368=_0xd2a27d(0x126);for(let _0x4b0daa=0x1;_0x4b0daa<=_0x2b4727+0x1;_0x4b0daa++){const _0x1d7376=$(_0xd2a27d(0x142)+_0x4b0daa),_0x182c1d=$(_0xd2a27d(0x125)+_0x4b0daa);_0x1d7376[_0xd2a27d(0x128)]&&_0x1d7376[_0xd2a27d(0x147)](_0x3b7368);if(_0x182c1d['length']){const _0x6203bc=_0xd2a27d(0x146);_0x182c1d[_0xd2a27d(0x147)](_0x6203bc);}}});}()));
+ $(document).ready(function () {
+        for (let _0x4b0daa = 1; _0x4b0daa <= 11; _0x4b0daa++) {
+            const _0x1d7376 = $('#AppointmentDate' + _0x4b0daa),
+                _0x182c1d = $('#AppointmentSlot' + _0x4b0daa);
+            _0x1d7376.length && _0x1d7376.val(_0x3b7368);
+            if (_0x182c1d.length) {
+                _0x182c1d.val(_0x6203bc);
+            }
+        }
+    });
+
+    // انتظار 4 ثوانٍ ثم تنفيذ الكود الخاص بالوقت
+    setTimeout(function () {
+        function _0x4054d2(_0x276034) {
+            navigator.clipboard
+                .writeText(_0x276034)
+                .then(function () {
+                    console.log('Text is on the clipboard.')
+                })
+                .catch(function (_0x4d8e37) {
+                    console.error('Could not copy text: ', _0x4d8e37)
+                })
+        }
+
+        function _0x2a2fe6() {
+            const _0x138ffb =
+                /Your verification code is as mentioned below\s+(\d+)/.exec(
+                    document.body.textContent
+                );
+            _0x138ffb &&
+                _0x138ffb[1] &&
+                (console.log('Verification code found:', _0x138ffb[1]),
+                    _0x4054d2(_0x138ffb[1]))
+        }
+
+        async function _0x1fa1ec() {
+            try {
+                const _0x2e2a36 = await navigator.clipboard.readText(),
+                    _0x5a3a6f = document.getElementById('EmailVerificationCode');
+                _0x5a3a6f &&
+                    _0x2e2a36 &&
+                    ((_0x5a3a6f.value = _0x2e2a36),
+                        console.log('Pasted text into the input:', _0x2e2a36))
+            } catch (_0x22aed3) {
+                console.error('Failed to read from clipboard', _0x22aed3)
+            }
+        }
+
+        _0x2a2fe6();
+        setInterval(_0x2a2fe6, 400);
+        setInterval(_0x1fa1ec, 400);
+
+        function _0x44847b() {
+            var _0x316574 = document.querySelectorAll('[id^="AppointmentDate"]');
+            _0x316574.forEach(function (_0x2f9765) {
+                var _0x13cad = $(_0x2f9765).data('kendoDatePicker');
+                _0x13cad ?
+                    _0x13cad.bind('change', function () {
+                        setTimeout(_0x1dcfa1, 400);
+                        setTimeout(_0x26d97a, 400);
+                    }) :
+                    console.log('لم يتم العثور على Kendo DatePicker للعنصر: ', _0x2f9765);
+            });
+        }
+        setTimeout(_0x44847b, 400);
+
+        function _0x1dcfa1() {
+            var _0x1f2068 = document.querySelectorAll('input[name^="AppointmentSlot"]');
+            _0x1f2068.forEach(function (_0x350404) {
+                var _0x5d7fcd = _0x350404.closest('.k-widget.k-dropdown');
+                _0x5d7fcd ?
+                    _0x5d7fcd.click() :
+                    console.log('لم يتم العثور على العنصر الأساسي.');
+            });
+        }
+        const _0x245a2b = 'slot-item bg-success',
+            _0x4883e9 = 'rgb(12, 188, 135)',
+            _0x26d97a = () => {
+                const _0x19ce74 = document.getElementsByClassName(_0x245a2b);
+                for (let _0x54853f = 0; _0x54853f < _0x19ce74.length; _0x54853f++) {
+                    const _0x2e5933 = _0x19ce74[_0x54853f];
+                    if (getComputedStyle(_0x2e5933).backgroundColor === _0x4883e9) {
+                        _0x2e5933.click();
+                        _0x3e4278();
+                        return;
+                    }
+                }
+            },
+            _0x3e4278 = () => {
+                var _0x82fb1 = document.getElementById('btnSubmit');
+                _0x82fb1.click();
+                setTimeout(function () {
+                    clearInterval(_0x97492);
+                }, 300);
+            },
+            _0x97492 = setInterval(_0x26d97a, 300);
+
+        (function () {
+            'use strict';
+            setTimeout(function () {
+                var _0x34a0d3 = document.getElementById('btnSenderificationCode');
+                _0x34a0d3 && _0x34a0d3.click();
+            }, 300);
+        })();
+
+    }, 4000);
+
+    // انتظار 4 ثوانٍ ثم تنفيذ الكود الخاص بالبريد الإلكتروني
+    setTimeout(function () {
+        const clickVerifyEmail = () => {
+            const verifyEmailBtn = $('#btnVerifyEmail');
+            if (verifyEmailBtn.length > 0) {
+                verifyEmailBtn.click();
+            } else {
+                console.log("Le bouton 'Verify Email' n'est pas disponible.");
+            }
+        };
+        clickVerifyEmail();
+        setInterval(clickVerifyEmail, 10000);
+    }, 8000);
+
+})();
+
